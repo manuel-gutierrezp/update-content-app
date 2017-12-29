@@ -1,0 +1,27 @@
+/* General Styles*/
+
+html, body {
+	width: 100%;
+	height: auto;
+	font-size: 16px; 
+	font-family: serif;
+	text-align: center;
+	background-color: #2d606f;
+	color: #fff; 
+}
+
+body {
+	padding:20px; 
+}
+
+/* Button Style*/
+.button {
+	border-radius: 10px;
+	background-color: #333;
+	margin-top: 10px;
+	padding: 10px;
+	text-align: center;
+	font-size: 14px;
+	color: #fff; 
+	text-decoration: none;
+}
